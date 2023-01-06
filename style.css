@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    color: purple;
+    background-color: white;
+}
+h1 {
+    background-color: palegreen;
+}
+.playerseasons p{
+    background-color: palegreen;
+}
+h2{
+    background-color: palegreen;
+}
+hr {
+            height: 4px;
+            background-color: purple;
+            border: none;
+}
+
